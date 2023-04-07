@@ -29,6 +29,8 @@ You can utilize a basic website template and machine learning model provided by 
 ## Front-End docs
 
 **Clone one of the templates mentioned above**
+
+
 To view simple page:
 ```bash
 npm run start
