@@ -1,6 +1,6 @@
 # Death Clock Template
 
-### *"Sometimes The Questions Are Complicated And The Answers Are Simple"*
+> *"Sometimes The Questions Are Complicated And The Answers Are Simple"*
 
 ## Rules and Guidelines
 
