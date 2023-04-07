@@ -28,7 +28,7 @@ You can utilize a basic website template and machine learning model provided by 
 
 ## Front-End docs
 
-**Clone one of the templates mentioned above**
+**Clone one of the [templates](https://github.com/FidalMathew/GDSC-DeathClock/blob/main/Readme.md#templates-for-reference) mentioned above**
 
 
 To view simple page:
