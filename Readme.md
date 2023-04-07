@@ -27,5 +27,16 @@ You can utilize a basic website template and machine learning model provided by 
 - Machine learning model
 
 
-**Frontend:** Run live server on index.html
-**Server:**  Run app.py
+**Frontend:** 
+```bash
+npm run start
+```
+**Server:**  
+### FastAPI
+```bash
+hypercorn app:app
+```
+### Flask
+```bash
+flask run
+```
